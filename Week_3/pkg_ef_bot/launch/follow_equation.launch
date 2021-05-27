@@ -1,0 +1,5 @@
+<launch>
+	
+    <node pkg = "pkg_ef_bot" type = "node_equation_follow.py" name = "node_equation_follow" output = "screen"/>
+
+</launch>
